@@ -3,19 +3,16 @@
 A starting repository for use with YakData projects that rely on Docker and Docker Compose.
 
 <img src="./YakData_Logo_Name_White_Trans.png" alt="YakData_Logo_Name_White_Trans" style="zoom:5%;" />
-
- 
-- [YakData Ubuntu 22.04 Update, Install Docker and Install Docker Compose](#yakdata-ubuntu-2204-update-install-docker-and-install-docker-compose)
   
-  - [🎶 Features](#-features)
-  - [🔦 Highlights](#-highlights)
-  - [🧰 Install](#-install)
-  - [🔐 LICENSE](#-license)
-  - [💥 Is this battle tested? Should I use this?](#-is-this-battle-tested-should-i-use-this)
-  - [📫 Issues](#-issues)
-  - [📘 Docs](#-docs)
-  - [💼 Alternatives](#-alternatives)
-  - [🧑‍💻 Discussion](#-discussion)
++ [🎶 Features](#-features)
++ [🔦 Highlights](#-highlights)
++ [🧰 Install](#-install)
++ [🔐 LICENSE](#-license)
++ [💥 Is this battle tested? Should I use this?](#-is-this-battle-tested-should-i-use-this)
++ [📫 Issues](#-issues)
++ [📘 Docs](#-docs)
++ [💼 Alternatives](#-alternatives)
++ [🧑‍💻 Discussion](#-discussion)
   
 ## 🎶 Features
 
