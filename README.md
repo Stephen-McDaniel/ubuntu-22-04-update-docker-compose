@@ -12,8 +12,7 @@ A starting repository for use with YakData projects that rely on Docker and Dock
 + [📫 Issues](#-issues)
 + [📘 Docs](#-docs)
 + [💼 Alternatives](#-alternatives)
-+ [❗ Issues](#-issues)
-  
+
 ## 🎶 Features
 
 * This YakData repository, ***ubuntu_22_04_update_docker_compose***, is a simple cron.d and script based system built for running bash commands from uploaded files ("recipes") in a sequential manner. It was built for and tested on Ubuntu 22.04 (LTS.) 
@@ -216,8 +215,3 @@ Docker Compose docs: https://docs.docker.com/compose/
 Do it yourself. Some people just like to do it all!
 
 Use YakData AWS AMI images of our projects.
-
-## 🧑‍💻 Issues
-
-Head over to [the Issues area](https://github.com/Stephen-McDaniel/ubuntu-22-04-update-docker-compose/issues). 
-
