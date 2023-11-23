@@ -12,7 +12,7 @@ A starting repository for use with YakData projects that rely on Docker and Dock
 + [📫 Issues](#-issues)
 + [📘 Docs](#-docs)
 + [💼 Alternatives](#-alternatives)
-+ [🧑‍💻 Discussion](#-discussion)
++ [❗ Issues](#-issues)
   
 ## 🎶 Features
 
@@ -217,7 +217,7 @@ Do it yourself. Some people just like to do it all!
 
 Use YakData AWS AMI images of our projects.
 
-## 🧑‍💻 Discussion
+## 🧑‍💻 Issues
 
-Head over to [The YakData Community]([https://meta.yakdata.com](https://github.com/Stephen-McDaniel/ubuntu-22-04-update-docker-compose/issues)). You can login to comment with your Github account, a Google account or your email and a password.
+Head over to [the Issues area](https://github.com/Stephen-McDaniel/ubuntu-22-04-update-docker-compose/issues). 
 
