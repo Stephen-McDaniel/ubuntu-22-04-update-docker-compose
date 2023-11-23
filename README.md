@@ -219,5 +219,5 @@ Use YakData AWS AMI images of our projects.
 
 ## 🧑‍💻 Discussion
 
-Head over to [The YakData Community](https://meta.yakdata.com). You can login to comment with your Github account, a Google account or your email and a password.
+Head over to [The YakData Community]([https://meta.yakdata.com](https://github.com/Stephen-McDaniel/ubuntu-22-04-update-docker-compose/issues)). You can login to comment with your Github account, a Google account or your email and a password.
 
