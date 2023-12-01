@@ -160,14 +160,15 @@ exit
 # rsync must be installed on local and the server
 dir_local="/path/to/downloaded/and/unzippped/repo/ydutilities/autorun/001_todo/"
 dir_remote=/ydutilities/autorun/001_todo
-keyfile='/path/to/your/pem/my.pem'
-host=my.host.com
+user='root'
+keyfile='/path/to/your/pem/my.pem.OR.sshkey'
+host=my.host.ip.address
 
 cd "$dir_local"
 
 rsync --progress -h -v -r -P -t -z --no-o --no-g \
       -e "ssh -i $keyfile" \
-      $dir_local ubuntu@$host:$dir_remote --delete
+      $dir_local $user@$host:$dir_remote --delete
 ```
 
 6. The system checks for a ***.start.root*** file every minute. This is the trigger file for executing the next shell script in the directory. The "next" file is based on a sort of the shell file names found in the directory.
