@@ -183,11 +183,16 @@ ls -al /ydutilities/autorun/001_todo
 ```
 Should be empty. 
 
-And 
+What happened? The logs are at:
+
+```bash
+ls -al /ydutilities/autorun/000_logs/
+```
+
+And the original three recipe files will be here upon completion.
 ```bash
 ls -al /ydutilities/autorun/002_completed
 ```
-Should have all three recipe files.
 
 ## 🔐 LICENSE
 
